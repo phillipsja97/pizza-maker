@@ -5,7 +5,7 @@ Use this application to select ingredients and get a final cost for your pizza c
 
 ## ScreenShots
 
-
+![pizza maker preview](https://raw.githubusercontent.com/phillipsja97/pizza-maker/master/Screenshots/Mainview.PNG)
 
 
 
